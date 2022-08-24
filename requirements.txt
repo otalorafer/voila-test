@@ -9,3 +9,4 @@ jupyter_client==7.3.4
 jupyter_core==4.11.1
 jupyterlab==3.2.7
 notebook==6.4.3
+voila==0.3.6
